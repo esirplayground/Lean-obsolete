@@ -1,1 +1,1 @@
-Obsoleted App of Lean
+Obsolete App of Lean
