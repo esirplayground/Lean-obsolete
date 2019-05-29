@@ -1,1 +1,1 @@
-Obsolete App of Lean
+Obsolete Apps of Lean OpenWrt
